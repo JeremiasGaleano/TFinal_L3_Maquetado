@@ -10,3 +10,9 @@ C:\Users\Aaron\Desktop\TrabajoFinalLab3\TrabajoFinal\Entidades\obj\Debug\Entidad
 C:\Users\Aaron\Desktop\TrabajoFinalLab3\TrabajoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Aaron\Desktop\TrabajoFinalLab3\TrabajoFinal\Entidades\obj\Debug\Entidades.dll
 C:\Users\Aaron\Desktop\TrabajoFinalLab3\TrabajoFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Entidades\obj\Debug\Entidades.pdb

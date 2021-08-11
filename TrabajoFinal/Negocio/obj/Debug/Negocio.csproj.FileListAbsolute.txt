@@ -31,3 +31,14 @@ C:\Users\Aaron\Desktop\TrabajoFinalLab3\TrabajoFinal\Negocio\obj\Debug\Negocio.c
 C:\Users\Aaron\Desktop\TrabajoFinalLab3\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Users\Aaron\Desktop\TrabajoFinalLab3\TrabajoFinal\Negocio\obj\Debug\Negocio.dll
 C:\Users\Aaron\Desktop\TrabajoFinalLab3\TrabajoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Negocio\bin\Debug\Dao.dll
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Negocio\bin\Debug\Dao.pdb
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario1\Documents\GitHub\TFinal_L3_Maquetado\TrabajoFinal\Negocio\obj\Debug\Negocio.pdb
